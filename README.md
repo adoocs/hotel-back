@@ -18,8 +18,8 @@ Este es el backend para el sistema de gestión de reservas del Hotel Van Gogh, c
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/tu-usuario/hotel-van-gogh-backend.git
-    cd hotel-van-gogh-backend
+    git clone https://github.com/adoocs/hotel-back.git
+    cd hotel-back
     ```
 
 2. Configura la base de datos en `application.properties`:
